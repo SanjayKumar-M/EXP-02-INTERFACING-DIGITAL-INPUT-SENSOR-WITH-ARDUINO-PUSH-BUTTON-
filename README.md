@@ -101,3 +101,6 @@ Output of the simulation :<br>
 
 [My image](username.github.com/repository/img/image.jpg)
 
+RESULT:
+	Thus we have interfaced digital push button and blink of LED successfully.
+

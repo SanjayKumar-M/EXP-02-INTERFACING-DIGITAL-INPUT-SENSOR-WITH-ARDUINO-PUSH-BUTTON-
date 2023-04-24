@@ -67,7 +67,8 @@ FIGURE -03<br>
 
 
 
-PROGRAM  <br>
+PROGRAM 
+```python
 int buttonState = 0;
 
 void setup()
@@ -89,13 +90,7 @@ void loop()
   
 }
  
- 
- 
- 
- 
-
-
-
+```
 Output of the simulation :<br>
 ![image](https://github.com/SanjayKumar-M/Introduction-To-Rootics/blob/main/Screenshot%20(22).png)
 

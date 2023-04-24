@@ -35,6 +35,7 @@ FIGURE-01
 
 
 FIGURE-02
+![image](https://github.com/SanjayKumar-M/Introduction-To-Rootics/blob/main/Screenshot%20(22).png)
 PROCEDURE 
  Open tinker cad account 
 1.	Select Arduino uno , bread board , digital input and digital output 

@@ -34,7 +34,7 @@ FIGURE-01
 
 
 
-FIGURE-02
+FIGURE-02 <br>
 ![image](https://github.com/SanjayKumar-M/Introduction-To-Rootics/blob/main/Screenshot%20(22).png)
 PROCEDURE 
  Open tinker cad account 
@@ -61,13 +61,33 @@ CIRCUIT DIAGRAM
 
 
 
-FIGURE -03
+FIGURE -03<br>
+![image](https://github.com/SanjayKumar-M/Introduction-To-Rootics/blob/main/Screenshot%20(22).png)
 
 
 
 
+PROGRAM  <br>
+int buttonState = 0;
 
-PROGRAM 
+void setup()
+{
+ pinMode(2,INPUT);
+ pinMode(13,OUTPUT);
+}
+
+void loop()
+{
+  buttonState = digitalRead(2);
+  if(buttonState == HIGH){
+    digitalWrite(13,HIGH);
+  }
+  else{
+  	digitalWrite(13,LOW);
+  }
+  delay(15);
+  
+}
  
  
  

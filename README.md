@@ -96,7 +96,8 @@ void loop()
 
 
 
-Output of the simulation :
+Output of the simulation :<br>
+![image](https://github.com/SanjayKumar-M/Introduction-To-Rootics/blob/main/Screenshot%20(22).png)
 
 [My image](username.github.com/repository/img/image.jpg)
 
